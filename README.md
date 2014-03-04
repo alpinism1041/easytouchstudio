@@ -5,4 +5,4 @@ Easy Touch Studio
 
 Moto
 1. Everyone can make html page without typing.
-2. 
+2. This is a test
